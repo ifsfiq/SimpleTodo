@@ -33,13 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-- Some challenges that I have encountered while building this app was that I had trouble setting up Android Studio because the tutorial and the actual tool were different
-  because they were different versions. I also had trouble logging into github from Android Studio. I solved all of these challenges by using Google and reading the comments
-  on the Youtube videos.
+- Some challenges that I have encountered while building this app was that I had trouble setting up Android Studio because the tutorial's version and my version were different. I solved this challenge by using Google. I also struggled with submitting the project to Github. I solved this problem by updating Github and using a personal token.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [yyyy] [name of copyright owner]. 
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
